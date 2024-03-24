@@ -48,7 +48,7 @@
 ![image](https://github.com/hephzibahij/alx-frontend-for-fun/assets/128981877/dfb503d4-6331-4563-ac20-6e023fcc1e93)
 ![image](https://github.com/hephzibahij/alx-frontend-for-fun/assets/128981877/927711b5-375e-4a78-bcef-63b4ea30a59d)
 
-Author
+# Author
 Ijeje Hephzibah Owoma (@hephzibahij) - ![image](https://github.com/hephzibahij/alx-frontend-for-fun/assets/128981877/1c4989a3-883f-4afb-a7d3-5b6beebcbb5c)
 ![image](https://github.com/hephzibahij/alx-frontend-for-fun/assets/128981877/55b035d9-25f7-4f34-87ba-87fedf6f1de0)
 ![image](https://github.com/hephzibahij/alx-frontend-for-fun/assets/128981877/a4f47c2a-2df6-4547-b619-d25657f02413)
